@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "axios": "^1.9.0"
+  },
+  "devDependencies": {
+    "expo-module-scripts": "^4.1.7",
+    "@types/react": "~19.0.10"
+  }
+}
